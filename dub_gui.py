@@ -24,7 +24,8 @@ LANG_MAP = {
     "Czech": "cs",
     "Chinese": "zh-cn",
     "Korean": "ko",
-    "Hungarian": "hu"
+    "Hungarian": "hu",
+    "Japan":"ja"
 }
 
 
